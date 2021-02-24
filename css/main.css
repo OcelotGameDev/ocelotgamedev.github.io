@@ -2,11 +2,8 @@ body{
   background-color: #222222;
 }
 
-.buffer{
-	min-height: 55px;
-}
-
 .logoImg{
+  padding-top: 55px;
   height: 50%
 }
 
