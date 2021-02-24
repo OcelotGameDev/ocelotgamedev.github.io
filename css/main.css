@@ -3,7 +3,7 @@ body{
 }
 
 .buffer{
-	width: 55px;
+	min-height: 55px;
 }
 
 .logoImg{
